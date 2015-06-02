@@ -1,0 +1,23 @@
+3. For running locally: 
+
+	real	1m21.923s
+	user	1m23.277s
+	sys	0m2.057s
+
+   For running EMR
+
+	Running time was 270.0s (not counting time spent waiting for the EC2 instances)
+
+
+	real	12m33.287s
+	user	0m1.178s
+	sys	0m0.093s
+
+
+4. How many address tags are there in the input
+
+	There are 2042 "address" tags in the output (both outputs)
+
+5. Do the local version and the EMR version give the same answer? 
+
+	Yes, they both provide the same answer of 2042 "address" tags, although the EMR version is slower to run. 
