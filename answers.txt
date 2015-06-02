@@ -16,7 +16,7 @@
 
 4. How many address tags are there in the input
 
-	There are 2042 "address" tags in the output (both outputs)
+	There are 2042 "address" tags in the input
 
 5. Do the local version and the EMR version give the same answer? 
 
